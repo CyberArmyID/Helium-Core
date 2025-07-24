@@ -4,7 +4,7 @@
 
 If you find a security vulnerability in Helium Core, please email us at:
 
-**security@cyberarmy.id**
+**hello@cyberarmy.id**
 
 Please include:
 - Description of the issue
